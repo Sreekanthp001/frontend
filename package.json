@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "version": "v1",
+  "version": "1.0.0",
   "description": "frontend",
   "main": "server.js",
   "scripts": {
